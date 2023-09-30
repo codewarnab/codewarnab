@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arnab Mondal and I'm a Student, from India</h2>
+<h2 align="left">Hi 👋! My name is Arnab Mondal and I'm a Python Developer, from India</h2>
 
 ###
 
