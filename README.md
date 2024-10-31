@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently maintaing [**Paws**](https://github.com/innovateninjas/Paws-frontend/)
 
-- 🌱 I’m currently learning **Next js**
-
 - 💬 Ask me about **JavaScript, SystemDesign, Python, C, Networking**
 
 - 📫 reach me out at **arnab180308@gmail.com**
