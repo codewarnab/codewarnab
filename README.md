@@ -8,11 +8,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewarnab&label=Profile%20views&color=0e75b6&style=flat" alt="Arnab Mondal" /> </p>
  
 
-- 💬 Ask me about **JavaScript, SystemDesign, Python, C, Networking**
+- 💬 Ask me about **JavaScript, System Design, Python, C, Networking**
 
-- 📫 reach me out at **arnab180308@gmail.com**
+- 📫 Reach me at **arnab180308@gmail.com**
 
 - ⚡ **I love to play Football and Chess**
+
+- 🌐 Check out more of my projects at **[codewarnab.in](https://www.codewarnab.in)**
+
+- ✍️ I also enjoy writing! Here are my last two blog posts:
+  - [Exploring Currying: A Key Functional Concept in JavaScript](https://www.codewarnab.in/blog/understanding-currying-in-javascript)
+  - [What is Subresource Integrity (SRI) and Why It Matters for Web Security](https://www.codewarnab.in/blog/what-is-subresource-integrity)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
