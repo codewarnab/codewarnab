@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, System Design, Python, C, Networking**
 
-- 📫 Reach me at **arnab180308@gmail.com**
+- 📫 Reach me at **hi@codewarnab.in**
 
 - ⚡ **I love to play Football and Chess**
 
