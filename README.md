@@ -1,34 +1,27 @@
-###
+<p align="center">
+  <a href="https://www.codewarnab.in/" target="_blank">
+    <img src="https://i.postimg.cc/VN7dwYYf/unnamed.jpg" alt="You won't regret hiring me - Click for Portfolio" width="100%" />
+  </a>
+</p>
+
+---
 
 
-<h1 align="center">Hello, myself Arnab  Mondal</h1>
-<h3 align="center">A passionate Software  developer from India </h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewarnab&label=Profile%20views&color=0e75b6&style=flat" alt="Arnab Mondal" /> </p>
- 
+- Currently diving deep into **System Design**.
 
-- 💬 Ask me about **JavaScript, System Design, Python, C, Networking**
+- **Connect:** Reach out to me at **hi@codewarnab.in**
 
-- 📫 Reach me at **hi@codewarnab.in**
+- **Projects:** Check out more of my work at **[codewarnab.in](https://www.codewarnab.in)**
 
-- ⚡ **I love to play Football and Chess**
+- **Blog:** I enjoy writing about tech and my experiences. Here are my last two blog posts:
+  - [Experience at Student Welfare Committee, RCCIIT](https://www.codewarnab.in/blog/rcciit-student-welfare-committee-experience)
+  - [Software Development Internship at Codemate AI](https://www.codewarnab.in/blog/software-development-internship-codemate-ai)
 
-- 🌐 Check out more of my projects at **[codewarnab.in](https://www.codewarnab.in)**
-
-- ✍️ I also enjoy writing! Here are my last two blog posts:
-  - [Experience at Student Welfare Committee, RCCIIT](https://www.codewarnab.in/blog/rcciit-student-welfare-committee-experience)
-  - [Software Development Internship at Codemate AI](https://www.codewarnab.in/blog/software-development-internship-codemate-ai)
+- **Interests:** When I'm not coding, I love to play **Football and Chess**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/codewarnab/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewarnab" height="30" width="40" /></a>
-  <a href="https://twitter.com/codewarnab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewarnab" height="30" width="40" /></a>
-
-
-<h3 align="left">Languages and Tools I know but not restricted to:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewarnab&show_icons=true&locale=en&layout=compact" alt="Arnab Mondal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewarnab&show_icons=true&locale=en" alt="Arnab Mondal" /></p>
+  <a href="https://twitter.com/codewarnab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewarnab" height="30" width="40" /></a>
+</p>
