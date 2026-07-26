@@ -1,10 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.codewarnab.in/" target="_blank">
     <img src="https://i.postimg.cc/hjq3SqpB/IMG-20251023-072145.png" alt="You won't regret hiring me - Click for Portfolio" width="100%" />
   </a>
-</p>
+</p> -->
 
----
 
 ### Hi there! I'm Arnab Mondal
 
