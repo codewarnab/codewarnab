@@ -43,5 +43,5 @@ I play football, study chess games, and write about what I build.
   <a href="https://www.codewarnab.in"><img src="https://api.iconify.design/lucide/globe.svg?color=%230ea5e9" alt="Portfolio" height="22" /></a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/codewarnab/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="22" /></a> &nbsp;&nbsp;
   <a href="https://x.com/codewarnab"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/x.svg?color=white" /><img src="https://api.iconify.design/simple-icons/x.svg?color=black" alt="X" height="22" /></picture></a> &nbsp;&nbsp;
-  <a href="mailto:hi@codewarnab.in"><img src="https://api.iconify.design/logos/gmail.svg" alt="Email" height="22" /></a>
+  <a href="mailto:hi@codewarnab.in"><img src="https://api.iconify.design/logos/google-gmail.svg" alt="Email" height="22" /></a>
 </p>
