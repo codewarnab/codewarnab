@@ -4,13 +4,9 @@ I'm an SDE-1 at a stealth AI startup. I build AI agents, Graph RAG search, and f
 Before this, I was an SDE intern at [Codemate.ai](https://codemate.ai/).
 ### Open source contributions
 
-- **[Apache Arrow](https://github.com/apache/arrow-rs/pulls?q=is%3Apr+author%3Acodewarnab+is%3Amerged)** - 9 merged PRs that moved the cast tests into the integration suite
-- **[Apache DataFusion](https://github.com/apache/datafusion/pull/27011)** - wrote a guide for building a custom TopK operator
-- **[Apache httpd](https://github.com/apache/httpd/pull/1007)** - the "scoreboard is full" log now shows the current ServerLimit
+- **[Apache Arrow](https://github.com/apache/arrow-rs/pulls?q=is%3Apr+author%3Acodewarnab+is%3Amerged)** - 9 merged PRs
 - **[Zeek](https://github.com/zeek/zeek/pull/6093)** - added Brotli decompression for HTTP bodies
-- **[Vercel AI SDK](https://github.com/vercel/ai/pull/11463)** - throws a clear error when a stream is missing its start chunk
-- **[Langfuse](https://github.com/langfuse/langfuse/pull/20330)** - 2 PRs, including one that fixes Docker builds for amd64 and arm64
-- **[Argo CD](https://github.com/argoproj/argo-cd/pull/31006)**, **[Flux](https://github.com/fluxcd/image-reflector-controller/pull/969)**, **[Expo](https://github.com/expo/expo-device-hub/pull/597)**, **[Supermemory](https://github.com/supermemoryai/supermemory/pull/599)** - smaller fixes
+- Also: [DataFusion](https://github.com/apache/datafusion/pull/27011), [httpd](https://github.com/apache/httpd/pull/1007), [Vercel AI SDK](https://github.com/vercel/ai/pull/11463), [Langfuse](https://github.com/langfuse/langfuse/pull/20330), [Argo CD](https://github.com/argoproj/argo-cd/pull/31006), [Flux](https://github.com/fluxcd/image-reflector-controller/pull/969), [Expo](https://github.com/expo/expo-device-hub/pull/597), [Supermemory](https://github.com/supermemoryai/supermemory/pull/599)
 
 Full list with previews: [codewarnab.in/oss](https://www.codewarnab.in/oss)
 
