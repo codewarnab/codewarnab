@@ -32,13 +32,16 @@ Full list with previews: [codewarnab.in/oss](https://www.codewarnab.in/oss)
 - [How I fine-tuned Qwen2.5-Coder-7B to output production-ready LaTeX](https://www.codewarnab.in/blog/how-i-fine-tuned-qwen-to-output-production-ready-latex-documents)
 - [Building a WebRTC voice AI server from scratch in Go](https://www.codewarnab.in/blog/building-a-webrtc-voice-ai-server-in-go)
 - [How I built an autonomous Chrome AI agent with WebMCP](https://www.codewarnab.in/blog/how-i-built-an-autonomous-chrome-ai-agent-with-webmcp-hitl-tool-approvals-remote-and-stdio-mcp)
+
 More posts on [codewarnab.in/blog](https://www.codewarnab.in/blog).
 
 ### Outside code
 
 I play football, study chess games, and write about what I build.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-codewarnab.in-111?style=flat&logo=googlechrome&logoColor=white)](https://www.codewarnab.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-codewarnab-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewarnab/)
-[![X](https://img.shields.io/badge/X-@codewarnab-000?style=flat&logo=x&logoColor=white)](https://x.com/codewarnab)
-[![Email](https://img.shields.io/badge/Email-hi@codewarnab.in-111?style=flat&logo=gmail&logoColor=white)](mailto:hi@codewarnab.in)
+<p>
+  <a href="https://www.codewarnab.in"><img src="https://cdn.simpleicons.org/googlechrome/888888" alt="Portfolio" height="22" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/codewarnab/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="22" /></a> &nbsp;&nbsp;
+  <a href="https://x.com/codewarnab"><img src="https://cdn.simpleicons.org/x/888888" alt="X" height="22" /></a> &nbsp;&nbsp;
+  <a href="mailto:hi@codewarnab.in"><img src="https://cdn.simpleicons.org/gmail/888888" alt="Email" height="22" /></a>
+</p>
